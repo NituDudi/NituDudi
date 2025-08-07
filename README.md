@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<h1 align="center">Hello &nbsp;, I'm Nitu Dudi</h1>
+<h1 align="center">Hello, I'm Nitu Dudi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=B.Tech+AI+%26+ML+Student;Machine+Learning+Enthusiast;Full-Stack+Developer;AI+Engineer+in+Progress;Hackathon+Finalist;Open+Source+Contributor;LeetCode+Problem+Solver;" alt="Typing SVG" />
@@ -134,6 +134,113 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
   </a>
 
 </details>
+
+<br>
+<h3 align="center">Leetcode Stats</h3>
+<p align="center">
+  <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?ext=heatmap"/>
+</p>
+
+<br>
+
+<h1 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
+  Tech Stack
+</h1>
+
+<h3 align="center">Programming Languages</h3>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/><br>Java
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/><br>Python
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/><br>JavaScript
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/><br>C++
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 align="center">Frameworks & Libraries</h3>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/><br>React
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express.js"/><br>Express.js
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django"/><br>Django
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 align="center">AI & ML Tools</h3>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch"/><br>PyTorch
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" width="50" height="50" alt="TensorFlow"/><br>TensorFlow
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 align="center">Tools & Platforms</h3>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/><br>Git
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/><br>GitHub
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=jupyter" width="50" height="50" alt="Jupyter"/><br>Jupyter
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/><br>Figma
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 align="center">Core Concepts</h3>
+<div align="center">
+  🚀 OOP & DSA &nbsp; | &nbsp;
+  🧠 RAG (Retrieval-Augmented Generation) &nbsp; | &nbsp;
+  🖥️ DBMS, OS &nbsp; | &nbsp;
+  📊 Agile, Scrum, Kanban
+</div>
+
 
 
 
