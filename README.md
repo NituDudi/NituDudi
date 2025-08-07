@@ -285,11 +285,11 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/><br>VS Code
       </td>
-    </tr>
-    <tr>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/><br>Git
       </td>
+    </tr>
+    <tr>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/><br>GitHub
       </td>
