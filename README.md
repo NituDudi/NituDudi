@@ -79,6 +79,23 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=NituDudi&repo=Spotify_Clone&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
+      <td>
+        <a href="https://github.com/NituDudi/Optimizing-Delivery-Logistics">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NituDudi&repo=Optimizing-Delivery-Logistics&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/NituDudi/Internet_speed">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NituDudi&repo=Internet_speed&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/NituDudi/Simon-Game">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NituDudi&repo=Simon-Game&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
@@ -98,6 +115,26 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
   <img src="https://github-readme-bento.vercel.app/stats/NituDudi?theme=dark" alt="NituDudi's GitHub Stats">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=NituDudi" alt="Advanced GitHub Stats for NituDudi" width="400">
 </details>
+
+<br>
+
+### NituDudi/README.md activity
+<img width="100%" src="https://repobeats.axiom.co/api/embed/1b3c6c1e4b5b4ddba5f4c5cc3e6a429c9c3eec7f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
+
+[![Forkers repo roster for @NituDudi/NituDudi](https://reporoster.com/forks/dark/NituDudi/NituDudi)](https://github.com/NituDudi/NituDudi/network/members)
+
+[![Stargazers repo roster for @NituDudi/NituDudi](https://reporoster.com/stars/dark/NituDudi/NituDudi)](https://github.com/NituDudi/NituDudi/stargazers)
+
+<details>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for NituDudi&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+
+  <h2>Star History Chart</h2>
+  <a href="https://star-history.com/#NituDudi/NituDudi&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=NituDudi/NituDudi&type=Date&theme=dark" />
+  </a>
+
+</details>
+
 
 
 
