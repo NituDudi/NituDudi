@@ -138,100 +138,172 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
 <br>
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?ext=heatmap"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/nitu_dudi?ext=heatmap"/>
 </p>
+
 
 <br>
 
-<h1 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
-  Tech Stack
-</h1>
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Languages</h3>
 <div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/><br>Java
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/><br>Python
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/><br>JavaScript
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/><br>C++
-        </td>
-      </tr>
-    </tbody>
-  </table>
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="6" align="center" style="color: white;">Programming Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="50" height="50"/><br>Java
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/><br>CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
-<h3 align="center">Frameworks & Libraries</h3>
+<h3 align="center">Web Development</h3>
 <div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/><br>React
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express.js"/><br>Express.js
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django"/><br>Django
-        </td>
-      </tr>
-    </tbody>
-  </table>
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/><br>React
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/><br>Tailwind CSS
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/><br>Bootstrap
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
-<h3 align="center">AI & ML Tools</h3>
 <div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch"/><br>PyTorch
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" width="50" height="50" alt="TensorFlow"/><br>TensorFlow
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
-        </td>
-      </tr>
-    </tbody>
-  </table>
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=api" width="50" height="50"/><br>REST APIs
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
-<h3 align="center">Tools & Platforms</h3>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">AI/ML & Data Science</h3>
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/><br>Git
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/><br>GitHub
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=jupyter" width="50" height="50" alt="Jupyter"/><br>Jupyter
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/><br>Figma
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Libraries & Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/><br>Pandas
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-learn" width="50" height="50"/><br>Scikit-learn
+      </td>
+    </tr>
+  </tbody>
+ </table>
 </div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Tools & Platforms</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="50" height="50"/><br>Jupyter
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" width="50" height="50"/><br>Hugging Face
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/><br>VS Code
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/><br>Git
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/><br>GitHub
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 <h3 align="center">Core Concepts</h3>
 <div align="center">
