@@ -23,8 +23,8 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
 
 <div class="badges-intro" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" width="120">
 </div>
 
