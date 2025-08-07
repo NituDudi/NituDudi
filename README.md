@@ -163,13 +163,13 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
         <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="50" height="50"/><br>Java
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML
       </td>
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/><br>CSS
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript
       </td>
     </tr>
   </tbody>
@@ -216,9 +216,9 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express.js
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=api" width="50" height="50"/><br>REST APIs
-      </td>
-    </tr>
+  <img src="https://cdn.worldvectorlogo.com/logos/ejs-1.svg" width="50" height="50" alt="EJS"/><br>EJS
+    </td>
+</tr>
   </tbody>
 </table>
 </div>
@@ -283,12 +283,6 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="50" height="50"/><br>Jupyter
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" width="50" height="50"/><br>Hugging Face
-      </td>
-      <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/><br>VS Code
       </td>
     </tr>
@@ -304,7 +298,7 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
 </table>
 </div>
 
-
+<br>
 <h3 align="center">Core Concepts</h3>
 <div align="center">
   🚀 OOP & DSA &nbsp; | &nbsp;
