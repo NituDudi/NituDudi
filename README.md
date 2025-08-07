@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <h1 align="center">
-  Hello&nbsp;
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="48" />
-  , I'm Nitu Dudi
+  Hello, I'm Nitu Dudi
 </h1>
 </br>
 
