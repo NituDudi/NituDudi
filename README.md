@@ -307,6 +307,79 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
   📊 Agile, Scrum, Kanban
 </div>
 
+<br>
+
+<h2 align="center">📫 Let's Connect!</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Primary Email</th>
+      <th>University Email</th>
+      <th>WhatsApp</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="mailto:dudinitu18@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;"><br>
+          dudinitu18@gmail.com
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:NITU.23FE10CAI00279@muj.manipal.edu" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;"><br>
+          NITU.23FE10CAI00279@muj.manipal.edu
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://wa.me/919257205568" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp" style="width: 80px; margin: 10px;"><br>
+          +91-92572-05568
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th>LinkedIn</th>
+      <th>GitHub</th>
+      <th>LeetCode</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/nitu-dudi-854769297/" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" style="width: 80px; margin: 10px;"><br>
+          LinkedIn
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NituDudi" target="_blank">
+          <img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" alt="GitHub" style="width: 80px; margin: 10px;"><br>
+          GitHub
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/u/nitu_dudi/" target="_blank">
+          <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" style="width: 80px; margin: 10px;"><br>
+          LeetCode
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<h3>
+  <div align="center">
+    ⭐️ From [NituDudi](https://github.com/NituDudi) | Let's innovate together! 
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+  </div>
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
+
 
 
 
