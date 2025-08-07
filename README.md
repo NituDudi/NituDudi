@@ -1,6 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<h1 align="center">Hello, I'm Nitu Dudi</h1>
+<h1 align="center">
+  Hello &nbsp;
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="48" />
+  , I'm Nitu Dudi
+</h1>
+</br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=B.Tech+AI+%26+ML+Student;Machine+Learning+Enthusiast;Full-Stack+Developer;AI+Engineer+in+Progress;Hackathon+Finalist;Open+Source+Contributor;LeetCode+Problem+Solver;" alt="Typing SVG" />
@@ -29,13 +34,14 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
 </div>
 
 <br>
+<br>
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
  
   <img src="https://streak-stats.demolab.com/?user=NituDudi&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NituDudi&custom_title=Contributions%20by%20Nitu%20Dudi&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NituDudi&custom_title=Nitu's%20Github%20by%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
