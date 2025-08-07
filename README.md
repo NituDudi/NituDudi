@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <h1 align="center">
-  Hello &nbsp;
-  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="48" />
+  Hello&nbsp;
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="48" />
   , I'm Nitu Dudi
 </h1>
 </br>
@@ -41,7 +41,7 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
  
   <img src="https://streak-stats.demolab.com/?user=NituDudi&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NituDudi&custom_title=Nitu's%20Github%20by%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NituDudi&custom_title=Nitu's%20Github%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
@@ -304,7 +304,7 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
 </table>
 </div>
 
-<br>
+
 <h3 align="center">Core Concepts</h3>
 <div align="center">
   🚀 OOP & DSA &nbsp; | &nbsp;
@@ -313,6 +313,7 @@ Currently, I’m exploring end-to-end AI solutions, working with ONNX models, Re
   📊 Agile, Scrum, Kanban
 </div>
 
+<br>
 <br>
 
 <h2 align="center">📫 Let's Connect!</h2>
